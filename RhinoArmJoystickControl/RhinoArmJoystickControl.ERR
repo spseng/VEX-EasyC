@@ -1,0 +1,2 @@
+Main.c: In function 'main':
+Main.c line# 7:11: warning: unused variable 'enc02'
